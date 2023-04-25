@@ -1,6 +1,6 @@
 # kbx's 8-channel ESP32-Powered Relay + I/O Board
 
-![kbxESP32RelaySwitcher](images/ESP32RelaySwitcher_render.png "kbxESP32RelaySwitcher")
+![kbxESP32RelaySwitcher](images/ESP32RelaySwitchers-1-medium.jpeg "kbxESP32RelaySwitcher")
 
 ## What?
 
@@ -15,7 +15,13 @@ A friend asked me to.
 
 ## How?
 
-The schematic and PCB were drawn in [KiCAD](https://www.kicad.org).
+The schematic and PCB were drawn in [KiCAD](https://www.kicad.org); all project files are contained within this repo.
+
+## Look
+
+[![kbxESP32RelaySwitcher](images/ESP32RelaySwitchers-1-thumb.jpeg "kbxESP32RelaySwitcher")](images/ESP32RelaySwitchers-1.jpeg)
+[![kbxESP32RelaySwitcher](images/ESP32RelaySwitchers-2-thumb.jpeg "kbxESP32RelaySwitcher")](images/ESP32RelaySwitchers-2.jpeg)
+[![kbxESP32RelaySwitcher](images/ESP32RelaySwitcher-back-thumb.jpeg "kbxESP32RelaySwitcher")](images/ESP32RelaySwitcher-back.jpeg)
 
 ## Legal stuff and License
 
